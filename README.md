@@ -26,7 +26,7 @@ This is an early stage, ongoing initiative. Data collection and government engag
  
 ## Author
  
-Janet Nashipai — Data Analyst, Nairobi, Kenya
+Janet Nashipai Nairenke — Data Analyst, Nairobi, Kenya
 Founder and lead researcher, Where Are Our Girls Going?
  
 ## Note on data sensitivity
